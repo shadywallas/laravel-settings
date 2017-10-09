@@ -1,3 +1,4 @@
+shady
 # Laravel Settings
 
 [![Build Status](https://travis-ci.org/anlutro/laravel-settings.png?branch=master)](https://travis-ci.org/anlutro/laravel-settings)
